@@ -12,15 +12,12 @@ Backend: https://github.com/kayYZ1/Quark-Backend
 - Cloudinary for image upload
 - @microsoft/signalr for handling backend real-time functionality
 
-
-
-
-
-
-
 ## Demo
-
-//ToDo
+![Image Alt text](/images/login.png)
+![Image Alt text](/images/main.png)
+![Image Alt text](/images/options.png)
+![Image Alt text](/images/chat.png)
+![Image Alt text](/images/profile.png)
 
 
 ## Environment Variables
